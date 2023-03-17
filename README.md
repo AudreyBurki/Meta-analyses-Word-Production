@@ -14,10 +14,11 @@ We see that most values are positive but also that this is a very small effect. 
   
 ## Effects of distractors (or why we are faster at saying "Spider" with the word "Boat" on top than with the word "Ant"
   
-In this project we performed meta-analyses of several effects that are often cited and have been used to build or constrain theories of word production processes. Many of these effects were obtained with a variant of the stroop paradigm (i.e., name the color you see and ignore the name of a different color written on top). In this paradigm, participants name a picture and have to ignore a written word on the picture, as in the picture below.
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/28299451/225849830-3a2b1a6b-d75c-4277-98c6-c94b6500dd4a.png" width=30% height=30%>
 
-<p align="center">
-<img src="[https://user-images.githubusercontent.com/28299451/225849456-50c41da9-43b4-4211-a834-df6ea688b0f6.png](https://user-images.githubusercontent.com/28299451/225849456-50c41da9-43b4-4211-a834-df6ea688b0f6.png)" width="200" height="200">
+  
+In this project we performed meta-analyses of several effects that are often cited and have been used to build or constrain theories of word production processes. Many of these effects were obtained with a variant of the stroop paradigm (i.e., name the color you see and ignore the name of a different color written on top). In this paradigm, participants name a picture and have to ignore a written word on the picture, as in the picture below.
 
 
 The overall picture seems to be that

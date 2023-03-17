@@ -7,3 +7,4 @@ Words made of frequent syllables can be prepared faster for production than word
 m memory of the speaker. We conducted a meta-analysis of this effect. The figure below shows the results of this analysis. This is a posterior distribution, it shows the most likely value of this effect (difference, in milliseconds between words with low and words with high syllable frequencies). 
 
 <p align="center">
+ 

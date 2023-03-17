@@ -22,7 +22,7 @@ We see that most values are positive but also that this is a very small effect. 
 In this project we performed meta-analyses of several effects that are often cited and have been used to build or constrain theories of word production processes. Many of these effects were obtained with a variant of the stroop paradigm (i.e., name the color you see and ignore the name of a different color written on top). In this paradigm, participants name a picture and have to ignore a written word on the picture, as in the picture below.
 
  
-<img src="https://user-images.githubusercontent.com/28299451/225906728-f287904a-4aea-4ac5-993e-669d44c96686.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/28299451/225906728-f287904a-4aea-4ac5-993e-669d44c96686.png" width=30% height=30%>
  
  
  

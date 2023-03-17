@@ -25,7 +25,6 @@ In this project we performed meta-analyses of several effects that are often cit
 
 The overall picture seems to be that
 - Many of the effects reported early on are real. 
-- Many of the published studies have little power.
 - Evidence on moderators of these effects, which is crucial to disantangle existing theories of these effects, is often lacking. 
   
   

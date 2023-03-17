@@ -9,13 +9,12 @@ m memory of the speaker. We conducted a meta-analysis of this effect. The figure
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/28299451/225846187-66083918-22eb-472d-a14a-91b5275b6035.png" width=50% height=50%>
-
   
 We see that most values are positive but also that this is a very small effect. The code and data to reproduce this analysis can be accessed [here](https://osf.io/4nmbj/)
   
-## Effects of distractors (or why we are faster at saying "Spider" with the word "Boat" on top than with the word "Ant"
+## Effects of distractors (or why we are faster at saying "Spider" with the word "Boat" on top than with the word "Ant"?
   
-  <p align="center">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/28299451/225849830-3a2b1a6b-d75c-4277-98c6-c94b6500dd4a.png" width=30% height=30%>
 
   

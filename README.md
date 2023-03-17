@@ -6,9 +6,15 @@ In cognitive psychology/experimental psychology, we often rely on experimental d
 Words made of frequent syllables can be prepared faster for production than words made of low frequency syllables. THis effect has been used to argue that syllables are stored in the long ter
 m memory of the speaker. We conducted a meta-analysis of this effect. The figure below shows the results of this analysis. This is a posterior distribution, it shows the most likely value of this effect (difference, in milliseconds between words with low and words with high syllable frequencies). 
 
+<p align="center">
+
 ![Post_Distr_an1](https://user-images.githubusercontent.com/28299451/225846187-66083918-22eb-472d-a14a-91b5275b6035.png)
 
-In this project we performed meta-analyses of several effect that are often cited and have been used to build or constrain theories of word production processes.
+We see that most values are positive but also that this is a very small effect. The code and data to reproduce this analysis can be accessed [here]
+  
+
+  
+In this project we performed meta-analyses of several effects that are often cited and have been used to build or constrain theories of word production processes.
 
 Many of these effects were obtained with a variant of the stroop paradigm (i.e., name the color you see and ignore the name of a different color written on top). In this paradigm, participants name a picture and have to ignore a written word on the picture, as in the picture below.
 

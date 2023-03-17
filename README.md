@@ -12,12 +12,12 @@ m memory of the speaker. We conducted a meta-analysis of this effect. The figure
 
 We see that most values are positive but also that this is a very small effect. The code and data to reproduce this analysis can be accessed [here](https://osf.io/4nmbj/)
   
-## Effects of distractors (or why we are faster at saying "Siider" with the word "Boat" on top than with the word "Ant"
+## Effects of distractors (or why we are faster at saying "Spider" with the word "Boat" on top than with the word "Ant"
   
 In this project we performed meta-analyses of several effects that are often cited and have been used to build or constrain theories of word production processes. Many of these effects were obtained with a variant of the stroop paradigm (i.e., name the color you see and ignore the name of a different color written on top). In this paradigm, participants name a picture and have to ignore a written word on the picture, as in the picture below.
 
 <p align="center">
-<img src="[https://user-images.githubusercontent.com/28299451/225575985-61402acc-3ee7-421f-b38f-f4a9fc061a54.png](https://user-images.githubusercontent.com/28299451/225847441-394cc944-100d-4858-8542-c73ed5e00c55.png)" width="200" height="200">
+<img src="[https://user-images.githubusercontent.com/28299451/225849456-50c41da9-43b4-4211-a834-df6ea688b0f6.png](https://user-images.githubusercontent.com/28299451/225849456-50c41da9-43b4-4211-a834-df6ea688b0f6.png)" width="200" height="200">
 
 
 The overall picture seems to be that

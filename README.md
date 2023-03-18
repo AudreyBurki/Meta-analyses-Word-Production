@@ -27,7 +27,7 @@ The picture-word paradigm is variant of the [stroop paradigm](https://www.psytoo
 
 
  
-<img src="./Lab_June2021.jpg">
+<img src="./038_Spinne_SemRelated.png">
  
  
 The overall picture seems to be that

@@ -11,11 +11,12 @@ Words made of frequent syllables can be prepared faster for production than word
 
 <p align="center">
 
-<img src="./Lab_June2021.jpg">
+<img src="./Post_Distr_an1.png">
  
 <br>
 
-We see that most values are positive but also that this is a very small effect. The code and data to reproduce this analysis can be accessed [here](https://osf.io/4nmbj/)
+We see that most values are positive but also that this is a very small effect. 
+The code and data to reproduce this analysis can be accessed [here](https://osf.io/4nmbj/)
 
 
 <br>

@@ -29,7 +29,7 @@ The picture-word paradigm is variant of the [stroop paradigm](https://www.psytoo
 <br>
 
  
-<img src="./038_Spinne_SemRelated.png" width=50% height=50%>
+<img src="./038_Spinne_SemRelated.png" width=30% height=30%>
  
 
 <br>

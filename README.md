@@ -9,6 +9,8 @@ In the last few years (starting during the pandemic, when it was difficult at fi
 ## Syllable frequency effect (or why we are faster at saying _bri_ than _blo_?)
 Words made of frequent syllables can be prepared faster for production than words made of low frequency syllables. THis effect has been used to constraint models of word production and in particular, to argue that syllables are stored in the long term memory of the speaker. The figure below shows the results of a meta-analysis of this effect. This is a posterior distribution: it shows the most likely value of this effect (difference, in milliseconds between words with low and words with high syllable frequencies) as well as other possible values and their probabilities.
 
+<br>
+
 <p align="center">
 
 <img src="./Post_Distr_an1.png">
@@ -24,17 +26,20 @@ The code and data to reproduce this analysis can be accessed [here](https://osf.
 ## Effects of distractors (or why we are faster at saying "Spider" with the word "Boat" on top than with the word "Ant"?)
 The picture-word paradigm is variant of the [stroop paradigm](https://www.psytoolkit.org/experiment-library/stroop.html). Participants name a picture and have to ignore a written word on presented with the picture, as in the picture below. 
  
-
+<br>
 
  
 <img src="./038_Spinne_SemRelated.png">
  
- 
+
+<br>
+
 The overall picture seems to be that
 - Many of the effects reported early on are real. 
 - Evidence on moderators of these effects, which is crucial to disantangle existing theories of these effects, is often lacking. 
   
   
+<br>
 
 ## References, with links to data and code
 

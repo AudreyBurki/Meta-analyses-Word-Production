@@ -13,7 +13,7 @@ Words made of frequent syllables can be prepared faster for production than word
 
 <p align="center">
 
-<img src="./Post_Distr_an1.png">
+<img src="./Post_Distr_an1.png" width=50% height=50%>
  
 <br>
 
@@ -29,7 +29,7 @@ The picture-word paradigm is variant of the [stroop paradigm](https://www.psytoo
 <br>
 
  
-<img src="./038_Spinne_SemRelated.png">
+<img src="./038_Spinne_SemRelated.png" width=50% height=50%>
  
 
 <br>

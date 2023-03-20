@@ -14,8 +14,9 @@ Words made of frequent syllables can be prepared faster for production than word
 
 <p align="center">
 
-<img src="./Post_Distr_an1.png" width=50% height=50%>
- 
+
+ ![Post_Distr_an1](https://user-images.githubusercontent.com/28299451/226392848-c4b86109-72da-4bdc-94d7-33c4062517d8.png)
+
 <br>
 
 We see that most values are positive but also that this is a very small effect.
@@ -31,7 +32,7 @@ The picture-word paradigm is a variant of the [stroop paradigm](https://www.psyt
 <br>
 
  
-<img src="./038_Spinne_SemRelated.png" width=30% height=30%>
+<img src="./038_Spinne_SemRelated.png">
  
 
 <br>

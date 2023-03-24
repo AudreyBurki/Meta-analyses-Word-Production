@@ -27,7 +27,7 @@ Words made of frequent syllables can be prepared faster for production than word
 ```{r}
 library(cowplot)
 
-f1 <- ggdraw() + draw_image( "Z:/Github-website/Datastory_Meta_analysis/Meta-analyses-WordProduction/Post_Distr_an1.png", scale =0.8)
+f1 <- ggdraw() + draw_image( "H:/Github-website/Datastory_Meta_analysis/Meta-analyses-WordProduction/Post_Distr_an1.png", scale =0.8)
 f1
 ```
 
@@ -55,7 +55,7 @@ The picture-word paradigm is a variant of the Stroop paradigm. Participants name
 
 ```{r}
 
-f2 <- ggdraw() + draw_image( "Z:/Github-website/Datastory_Meta_analysis/Meta-analyses-WordProduction/038_Spinne_SemRelated.png" , scale =0.7)
+f2 <- ggdraw() + draw_image( "H:/Github-website/Datastory_Meta_analysis/Meta-analyses-WordProduction/038_Spinne_SemRelated.png" , scale =0.7)
 f2
 ```
 

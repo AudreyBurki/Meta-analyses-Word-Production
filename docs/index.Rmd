@@ -1,7 +1,6 @@
 ---
 title: "Assessing the available evidence with Bayesian meta-analyses"
 author: "Audrey Bürki"
-date: "20 3 2023"
 output: html_document
 ---
 
@@ -17,13 +16,13 @@ In cognitive psychology/experimental psychology, we often rely on experimental d
 
 Meta-analyses are incredibly useful because they quantify the evidence on which we can build our next studies and theories. They provide an idea of the size of an effect (how bit ig is) and of its precision. This can be used to run power analyses (analyses that help decide how many participants are needed to find an effect in a future experiment) and build more precise computational models.
 
-In the last few years (starting during the pandemic, when it was difficult at first to collect new experimental data) we conducted Bayesian meta-analyses of several popular experimental effects in language production research. In addition, having access to original datasets, we were able to test novel hypotheses about these effects. Here are a few examples:
+In the last few years (starting during the pandemic, when it was difficult at first to collect new experimental data) we conducted Bayesian meta-analyses of several experimental effects in language production research. In addition, having access to original datasets, we were able to test novel hypotheses about these effects. Here are a few examples:
 
 
 
 # Syllable frequency effect (or why are we faster at saying bri than blo?)
 
-Words made of frequent syllables can be prepared faster for production than words made of low frequency syllables. This effect has been used to constraint models of word production and in particular, to argue that syllables are stored in the long term memory of the speaker. The figure below shows the results of a meta-analysis of this effect. This is a posterior distribution: it shows the most likely value of this effect (difference, in milliseconds between words with low and words with high syllable frequencies) as well as other possible values and their probabilities.
+Words made of frequent syllables can be prepared faster for production than words made of low frequency syllables. This effect has been used to constrain models of word production and in particular, to argue that syllables are stored in the long-term memory of the speaker. The figure below shows the results of a meta-analysis of this effect. This is a posterior distribution: it shows the most likely value of this effect (difference, in milliseconds between words with low and words with high syllable frequencies) as well as other possible values and their probabilities.
 
 ```{r}
 library(cowplot)
@@ -35,22 +34,24 @@ f1
 
 ### Take home message
 
-  * Most values are positive, the meta-analysis suggests that the effect is "real" but: 
+Most values are positive, the meta-analysis suggests that the effect is "real" but: 
+
   * Failed attempts to detect the effect are not published and therefore not included.
-  * The effect is very small, and as a consequence, requires very large sample sizes to be detected in future studies.
+  
+  * The effect is very small, and as a consequence, very large sample sizes will be required to  detect this effect
   
 The code and data to reproduce this analysis can be accessed [here](https://osf.io/4nmbj/)
 
 
 
-# *** 
+# 
 
 
 
 
 # Effects of distractors (or why are we faster at saying "Spider" with the word "Boat" written on top than with the word "Ant"?)
 
-The picture-word paradigm is a variant of the stroop paradigm. Participants name a picture and have to ignore a written word on presented with the picture, as in the picture below.
+The picture-word paradigm is a variant of the Stroop paradigm. Participants name a picture and have to ignore a written word presented together with the picture, as in the picture below.
 
 ```{r}
 
@@ -59,10 +60,10 @@ f2
 ```
 
 
+The relationship between the word associated with the picture and the distractor impacts how quickly the picture can be named. We conducted Bayesian analyses of several experimental effects: semantic interference, distractor frequency, gender congruency... Overall, what we see is the following:
 
-We conducted Bayesian analyses of several oft-cited effects: semantic interference, distrator frequency, gender congruency... Overall, what we see is the following:
-
-  * Main effects, who were discovered in the 80s or in the 90s are "real".
+  * Main effects, who were already discovered in the 80s or in the 90s are reliable.
+  
   * Evidence on moderators of these effects, which is crucial to disentangle existing theories of these effects (and further define models of word production), is often lacking.
 
 

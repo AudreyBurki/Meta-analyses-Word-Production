@@ -20,14 +20,14 @@ In the last few years (starting during the pandemic, when it was difficult at fi
 
 
 
-# Syllable frequency effect (or why are we faster at saying bri than blo?)
+## Syllable frequency effect (or why are we faster at saying bri than blo?)
 
 Words made of frequent syllables can be prepared faster for production than words made of low frequency syllables. This effect has been used to constrain models of word production and in particular, to argue that syllables are stored in the long-term memory of the speaker. The figure below shows the results of a meta-analysis of this effect. This is a posterior distribution: it shows the most likely value of this effect (difference, in milliseconds between words with low and words with high syllable frequencies) as well as other possible values and their probabilities.
 
-```{r}
+```{r,out.width = "60%"}
 library(cowplot)
 
-f1 <- ggdraw() + draw_image( "H:/Github-website/Datastory_Meta_analysis/Meta-analyses-WordProduction/Post_Distr_an1.png", scale =0.8)
+f1 <- ggdraw() + draw_image( "H:/Github-website/Datastory_Meta_analysis/Meta-analyses-WordProduction/Post_Distr_an1.png")
 f1
 ```
 
@@ -42,20 +42,21 @@ Most values are positive, the meta-analysis suggests that the effect is "real" b
   
 The code and data to reproduce this analysis can be accessed [here](https://osf.io/4nmbj/)
 
+<br>
+
+<br>
 
 
-# 
+<br>
 
 
-
-
-# Effects of distractors (or why are we faster at saying "Spider" with the word "Boat" written on top than with the word "Ant"?)
+## Effects of distractors (or why are we faster at saying "Spider" with the word "Boat" written on top than with the word "Ant"?)
 
 The picture-word paradigm is a variant of the Stroop paradigm. Participants name a picture and have to ignore a written word presented together with the picture, as in the picture below.
 
-```{r}
+```{r,  out.width = "40%"}
 
-f2 <- ggdraw() + draw_image( "H:/Github-website/Datastory_Meta_analysis/Meta-analyses-WordProduction/038_Spinne_SemRelated.png" , scale =0.7)
+f2 <- ggdraw() + draw_image( "H:/Github-website/Datastory_Meta_analysis/Meta-analyses-WordProduction/038_Spinne_SemRelated.png")
 f2
 ```
 
@@ -66,6 +67,12 @@ The relationship between the word associated with the picture and the distractor
   
   * Evidence on moderators of these effects, which is crucial to disentangle existing theories of these effects (and further define models of word production), is often lacking.
 
+
+
+<br>
+
+
+<br>
 
 ### References, with links to data and code
 
